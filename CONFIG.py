@@ -10,4 +10,4 @@ d_over_h = DIAMETER / HEIGHT
 d_over_w = DIAMETER / WIDTH
 
 real, imag = start
-colors = ("#B000B5", "#111111", "#444444", "#000000")
+colors = ("#F7F020", "#FF09F0", "#000000", "#00510E", "#FF030B", "#048181")

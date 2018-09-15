@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk, Canvas, PhotoImage, mainloop
 import CONFIG
 
 def mandelbrot(c):
